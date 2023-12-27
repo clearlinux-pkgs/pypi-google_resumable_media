@@ -7,7 +7,7 @@
 #
 Name     : pypi-google_resumable_media
 Version  : 2.7.0
-Release  : 5
+Release  : 6
 URL      : https://files.pythonhosted.org/packages/c1/78/638c9ab69571db4f7ec022383ce13ff8d0cea5b8afc168a51bb0e9353c10/google-resumable-media-2.7.0.tar.gz
 Source0  : https://files.pythonhosted.org/packages/c1/78/638c9ab69571db4f7ec022383ce13ff8d0cea5b8afc168a51bb0e9353c10/google-resumable-media-2.7.0.tar.gz
 Summary  : Utilities for Google Media Downloads and Resumable Uploads
